@@ -9,17 +9,16 @@ html {
     font-size: 70pt;
   }
 
-  h2 {
+  h3 {
     color: white;
     text-align: center;
     padding-top: 25px;
-    font-size: 24pt;
   }
 
   body {
     color: white;
     text-align: center;
-    font-size: 12pt;
+    font-size: 14pt;
   }
 
   .socialIcon {
