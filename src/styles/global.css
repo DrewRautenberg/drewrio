@@ -1,0 +1,33 @@
+html {
+    background-color: #1E1E1E;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  h1 {
+    color: white;
+    text-align: center;
+    font-size: 70pt;
+  }
+
+  h2 {
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 24pt;
+  }
+
+  body {
+    color: white;
+    text-align: center;
+    font-size: 12pt;
+  }
+
+  .socialIcon {
+    padding-left: 15px;
+    padding-right: 15px; 
+  }
+
+  .topImage {
+    padding-top: 50px;
+  }
+  
