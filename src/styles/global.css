@@ -6,7 +6,6 @@ html {
   h1 {
     color: white;
     text-align: center;
-    font-size: 70pt;
   }
 
   h3 {
@@ -32,3 +31,16 @@ html {
     padding-top: 50px;
   }
   
+  /* If the screen size is 601px or more, set the font-size of <h1> to 80px */
+@media only screen and (min-width: 601px) {
+  h1 {
+    font-size: 70px;
+  }
+}
+
+/* If the screen size is 600px or less, set the font-size of <h1> to 30px */
+@media only screen and (max-width: 600px) {
+ h1 {
+    font-size: 40px;
+  }
+}
